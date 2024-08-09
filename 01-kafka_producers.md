@@ -74,3 +74,7 @@ In Apache Kafka, a producer is a client application that sends (or publishes) re
 ## Example
 
 ![image](https://github.com/user-attachments/assets/2c932651-371f-409e-a1e1-0df5febee72f)
+
+
+![image](https://github.com/user-attachments/assets/76db0e49-3965-4251-a060-756881012984)
+
